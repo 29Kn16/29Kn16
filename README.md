@@ -15,6 +15,6 @@ I'am currenly study computer engineering in Kosen-KMITL
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
 ## Goals
-I want to make someth
+Want to make somthing amazing🤩 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=29Kn16&show_icons=true&theme=radical)
