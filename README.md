@@ -14,7 +14,11 @@ I'am currenly study computer engineering in Kosen-KMITL
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-## Goals
-Want to make somthing amazing🤩 
+## Goals/mission 
+- Want to make somthing amazing🤩
+- learn new more computer languages
+- know more about computer
+  
+![computerscience-scaled](https://github.com/user-attachments/assets/bb972881-7275-4f49-b8f8-d9bd19a32a7a)
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=29Kn16&show_icons=true&theme=radical)
