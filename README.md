@@ -3,7 +3,7 @@ I'am currenly study computer engineering in Kosen-KMITL
 ## 😊 About me 
 - From Thailand
 - Contact me at 67991029@kmitl.ac.th📩 
-- like music🖋️ and drawing🎵
+- like music🖋️ drawing🎵 and sport
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karnnn3) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:67991029@kmitl.ac.th)
